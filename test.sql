@@ -187,7 +187,12 @@ FROM movies;
 */
 
 /*
----- Continue
+---- Max / Min
+The MAX() and MIN() functions return the highest and lowest values in a column, respectively.
+SELECT MAX(price)
+FROM fake_apps;
 
+SELECT Min(downloads)
+FROM fake_apps;
 */
 
